@@ -1,4 +1,4 @@
-# Customer-Personality-Analysis
+# ClusterCraft: Grocery Firm's Customer Segmentation Initiative
 
 ## Introduction
 In this project, unsupervised clustering of data on the customer's records from a grocery firm's database was implemented. Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. Customers were divided into segments to optimize the significance of each customer to the business and to modify products according to the distinct needs and behaviours of the customers. It also helps the business to cater to the concerns of different types of customers.
