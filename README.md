@@ -1,7 +1,7 @@
 # Customer-Personality-Analysis
 
 ## Introduction
-In this project, I will be performing an unsupervised clustering of data on the customer's records from a grocery firm's database. Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. I will divide customers into segments to optimize the significance of each customer to the business. To modify products according to the distinct needs and behaviours of the customers. It also helps the business to cater to the concerns of different types of customers.
+In this project, unsupervised clustering of data on the customer's records from a grocery firm's database was implemented. Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. Customers were divided into segments to optimize the significance of each customer to the business and to modify products according to the distinct needs and behaviours of the customers. It also helps the business to cater to the concerns of different types of customers.
 
 ## About the dataset
 The dataset consists of 2240 data points and 29 attributes. These attributes can be categorised in the following subsets:-
